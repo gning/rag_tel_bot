@@ -1,0 +1,9 @@
+python-telegram-bot>=20.8
+python-dotenv>=1.0.1
+pinecone-client>=3.0.1
+langchain>=0.1.11
+langchain-community>=0.0.26
+langchain-pinecone>=0.0.2
+langchain-google-genai>=0.0.6
+PyPDF2>=3.0.1
+google-generativeai>=0.3.2 
